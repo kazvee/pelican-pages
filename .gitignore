@@ -1,0 +1,22 @@
+# Pelican generated site
+output/
+
+# Python virtual environment
+venv/
+.env/
+*.env
+
+# Python bytecode caches
+__pycache__/
+*.py[cod]
+
+# Editor/IDE files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+EOF
